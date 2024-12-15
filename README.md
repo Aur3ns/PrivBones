@@ -1,4 +1,4 @@
-<h1 align="center"> Project lPrivBones </h1>
+<h1 align="center"> Project PrivBones </h1>
 
 ## Table of Contents
 
