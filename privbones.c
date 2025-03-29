@@ -1,6 +1,7 @@
 #include <windows.h>
 #include <tlhelp32.h>
 #include <stdio.h>
+#include <tchar.h>
 #pragma comment(lib, "advapi32.lib")
 
 void PrintErrorAndExit(const char* message) {
