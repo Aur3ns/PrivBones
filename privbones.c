@@ -4,6 +4,8 @@
 #include <tchar.h>
 #pragma comment(lib, "advapi32.lib")
 
+//gcc sc.c -o sc.exe -ladvapi32
+
 void PrintErrorAndExit(const char* message) {
     printf("%s\n", message);
     printf("Error code : %d\n", GetLastError());
